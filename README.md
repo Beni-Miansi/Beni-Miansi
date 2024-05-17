@@ -7,9 +7,8 @@
                - Reading: Explore books from different genres
                - Cinema: Watch films and series
               - Sport
-              - Music
-- 😄 : 
-- 
+              - Music 
+  
 <!---
 Beni-Miansi/Beni-Miansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
